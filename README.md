@@ -11,7 +11,7 @@ Concepts: Data Structures, Algorithms, Software Development Lifecycle (SDLC)
 Tools: Git, Advanced Windows knowledge, Advanced Hardware knowledge.
 
 Current Project:
-Project Name: Web Scraping to Extract 10,000 Products from Hepsiburada’s Official Store
+Project Name: Web Scraping to Extract 10,000 Products from Hepsiburada’s Official Store                                   
 This project will help me consolidate my web scraping knowledge, learning how to leverage Python to scrape data from large public databases and write it to an Excel file using the Pandas library. I am currently learning how to store this scraped data efficiently in an SQL database.
 Technologies Used: Python, Beautiful Soup (BS4), Pandas, Selenium.
 Key Lessons Learned: Gained hands-on experience with the data extraction pipeline and significantly enhanced my Debugging and Troubleshooting skills while resolving real-world errors.
