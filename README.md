@@ -18,7 +18,7 @@ Technologies Used: Python, Beautiful Soup (BS4), Pandas, Selenium.
 
 Key Achievements: Gained hands-on experience with the data extraction pipeline and significantly enhanced my Debugging and Troubleshooting skills while resolving real-world errors.
 
-Project Name: Console Calculator
+Project Name: My First Calculator
 A functional four-function calculator was developed to reinforce the fundamentals of Java.
 
 Technologies Used: Java, Scanner.
